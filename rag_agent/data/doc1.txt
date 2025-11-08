@@ -1,0 +1,8 @@
+Renewable energy comes from natural sources that replenish themselves over time, such as sunlight, wind, rain, tides, waves, and geothermal heat. 
+Unlike fossil fuels, renewable energy sources emit little to no greenhouse gases, making them essential for combating climate change. 
+Solar power uses photovoltaic cells or solar thermal systems to convert sunlight into electricity or heat. 
+Wind energy harnesses kinetic energy from moving air using wind turbines. 
+Hydropower captures energy from flowing water, while geothermal energy uses the Earth's internal heat. 
+Biomass energy converts organic materials such as plants, crop residues, and waste into fuels and electricity. 
+The main benefits of renewable energy include sustainability, energy independence, reduced pollution, and job creation in the clean-energy sector.
+Challenges include intermittency, high initial costs, and the need for storage and grid integration.

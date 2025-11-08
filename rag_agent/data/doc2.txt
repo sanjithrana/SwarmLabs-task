@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence. 
+Core AI domains include machine learning, natural language processing, computer vision, robotics, and expert systems. 
+Machine learning algorithms such as decision trees, random forests, neural networks, and deep learning allow systems to identify patterns and make predictions from data. 
+Natural language processing enables computers to understand and generate human language, powering chatbots, translation systems, and virtual assistants. 
+AI is transforming industries including healthcare, finance, education, transportation, and manufacturing. 
+Ethical challenges include data privacy, algorithmic bias, transparency, and job displacement.

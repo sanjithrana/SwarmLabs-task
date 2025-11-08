@@ -1,0 +1,10 @@
+langchain
+langgraph
+chromadb
+openai
+tiktoken
+sentence-transformers
+streamlit
+python-dotenv
+transformers
+evaluate
